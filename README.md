@@ -1,4 +1,4 @@
-# Gurbani App - https://kirtan.khalsa.tech/
+# Gurbani App
 
 Display Shabad with links to Audio/Video Shabads
 
